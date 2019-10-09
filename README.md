@@ -1,4 +1,4 @@
-# gpgpu.store
+# GPGPU.STORE
 
 ### Website under construction ... 
 
