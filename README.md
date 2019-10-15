@@ -2,7 +2,7 @@
 
 ### Website under construction ... 
 
-Share your GPU resources, AI datasets and models in [gpgpu.store](gpgpu.store)
+Share your GPU resources, AI datasets and models in [gpgpu.store](www.gpgpu.store)
 
 Now, gpgpu.store uses the template from dbchain.ai temporarily
 
